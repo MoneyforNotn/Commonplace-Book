@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## The Sahel Coups
 
 Right now, in a long strip of land across Africa called the Sahel, more than half of all terrorism deaths in the world are happening, and most people outside the region have no idea this is going on. 

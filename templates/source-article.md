@@ -1,5 +1,7 @@
 # Descriptive article title
 
+<!-- Use the matching topic header above the title; adjust its relative path. -->
+
 | | Article details |
 | :--- | :--- |
 | **Status** | Draft |
@@ -9,20 +11,22 @@
 
 ## In brief
 
-Summarize the source's central ideas, reasoning, and conclusion in original
-language with clear attribution. Include important qualifications. Keep the
-editorial assessment in its own section below.
+Give a complete overview of the topic: central context, mechanisms, memorable
+insights, useful takeaways, major disagreements, and the most consequential
+speculations. Label their evidence status. A reader who stops here should still
+understand the important ideas developed below.
 
-## Sources and scope
+## Main concept or mechanism
 
-Identify each source by title, creator or speaker, publication date, and link.
-Identify excerpts and repeated speakers. Explain what was and was not accessed.
+Explain the subject directly in original language. Use concepts or questions as
+headings. Attribute consequential allegations or distinctive theories when their
+origin matters, and put citations near the claims they support. Avoid interview
+recaps and statements about speakers agreeing as a substitute for evidence.
 
-## The argument
+## Related concept or competing explanation
 
-Explain the main steps and examples. Provide timestamp or page links. Distinguish
-speakers and preserve conditional premises. For multiple resources, show where
-they agree, differ, or leave a connection unresolved.
+Develop the reasoning and examples. Preserve meaningful disagreements and
+conditional premises. Omit this section if the subject does not need it.
 
 ## Connections to the collection
 
@@ -40,4 +44,8 @@ State unresolved empirical and philosophical questions without inventing answers
 
 ## Sources and revision record
 
-Keep sources traceable and record material revisions, review dates, and limitations.
+Identify each source, speaker or creator, date, and link. Distinguish excerpts,
+repeated speakers, and coverage limits. Record material revisions and review dates.
+
+This is a default structure. Adapt it for a short note, book entry, timeline,
+learning guide, or other document rather than filling irrelevant sections.

@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## The Permafrost Ticking Time Bomb 
 
 The Arctic is heating up four times faster than the rest of the planet, and one of the biggest stories you are not hearing about is the ground literally melting beneath people's feet. This is called permafrost. Permafrost. It is ground that has stayed completely frozen for years, and it covers a massive amount of land, about a quarter of the entire northern hemisphere. But now, that frozen ground is thawing. Imagine the earth under your house suddenly turning into mud. This is causing landslides and massive sinkholes that swallow up the land. It is washing away entire coastlines and destroying the food sources that local communities rely on, like fish and reindeer. 

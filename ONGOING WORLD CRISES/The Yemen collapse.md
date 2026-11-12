@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## The Yemen collapse
 
 Yemen is facing one of the world's worst crises, and it's barely being covered. The country is basically collapsing, as more than 17 million people, who make up almost half the country, are facing crisis levels of food insecurity. This number is thought to be increasing instead of decreasing, and by next year, it is expected to rise to over 18 million. In some districts, more than 40,000 people are facing catastrophic starvation. This began with a war that exploded in 2014, when Houthi rebels from the north took over the capital and pushed out the government. 

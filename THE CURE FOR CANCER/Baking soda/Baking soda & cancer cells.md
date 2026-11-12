@@ -1,11 +1,5 @@
-## Science behind baking soda & cancer cells
+![Come and See - Health and medicine](../../assets/headers/health-and-medicine.svg)
 
-The baking soda and molasses protocol gained attention through the experiences of Vernon Johnston, a man who claimed to have cured his stage 4 prostate cancer using baking soda and molasses. Although there is no official inventor, this method is rooted in the broader concept of alkalizing the body to fight cancer. How does it work on cancer? The theory behind this protocol is based on the idea that cancer cells thrive in acidic environments.
+# Baking soda and cancer cells
 
-Baking soda, sodium bicarbonate, is highly alkaline and is believed to neutralize acidity in the body. When combined with molasses, the mixture is thought to act like a Trojan horse, tricking cancer cells into absorbing the mixture due to their high glucose uptake. Cancer cells depend on sugar for energy. Since molasses contains sugar, the cancer cells absorb it. When mixed with baking soda, the molasses is believed to carry the alkaline substance into the cancer cells. The alkaline environment created by the baking soda is thought to disrupt cancer cell metabolism, weakening or destroying them.
-
-One of the most well-known success stories is Vernon Johnston, who was diagnosed with aggressive prostate cancer that had spread to his bones. Instead of undergoing conventional treatments, he started taking baking soda with molasses to raise his pH levels. After weeks of following the protocol, he claimed that his cancer was gone.
-
-However, there is no scientific proof backing this as a universal cure. The idea of using baking soda for cancer has been promoted by Dr. Tullio Simoncini, an Italian oncologist who controversially claimed that cancer is a type of fungal infection that can be treated with sodium bicarbonate. His views were rejected by the medical community due to a lack of scientific evidence, but the theory continues to gain attention in alternative medicine circles.
-
-The baking soda and molasses protocol is not widely used in mainstream medicine due to a lack of clinical trials. However, it is sometimes practiced in alternative cancer treatment communities, particularly in holistic and naturopathic medicine, and some people integrate it with alkaline diets, natural therapies, and detox regimens.
+The [section on tumor acidity and bicarbonate](../README.md#what-acidity-changes-around-a-tumor) covers the original claims, the animal and human studies, and the risks of taking baking soda. The previous note is preserved in Git history.

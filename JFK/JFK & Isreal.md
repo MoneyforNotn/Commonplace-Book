@@ -1,3 +1,5 @@
+![Come and See - Historical investigations](../assets/headers/historical-investigations.svg)
+
 # *Last President to stand up against Israel*
 
 

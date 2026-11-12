@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## My Lai massacre
 
 On the 16th of March 1968, in the Vietnamese village called Son Mai, U.S. soldiers carried out what became the largest massacre of civilians by American forces in the 20th century. Between 347 and 504 unarmed villagers, most of them women, children, and the elderly, were killed. Many women and girls, some as young as 12, were raped before being murdered. Bodies were mutilated, homes were burned, and livestock were slaughtered. Witnesses described women using their bodies to shield children, only for soldiers to fire into them. One ditch alone held more than 70 dead. Then, platoons went hut to hut, killing entire families, bayoneting the wounded, and throwing grenades. Soldiers later testified that their orders had been to destroy everything, leave nothing, and treat anyone still there as the enemy. One soldier intentionally shot himself in the foot to avoid taking part. A few, like Michael Bernhardt, refused to kill, and later helped expose what happened. 

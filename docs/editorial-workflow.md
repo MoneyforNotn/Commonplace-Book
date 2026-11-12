@@ -1,8 +1,10 @@
 # Editorial workflow
 
 The public collection preserves ideas readers can understand, revisit, and
-investigate. For resource-based entries, the first task is to convey the source
-faithfully. Research then clarifies its claims and limits.
+investigate. Resource-informed articles explain a topic while preserving the
+meaning and qualifications of the ideas that inspired them. Interviews supply
+claims and viewpoints to investigate; agreement in a discussion does not
+establish their truth.
 
 ## 1. Capture the source
 
@@ -26,19 +28,24 @@ When combining sources, identify shared ideas and disagreements. Count repeated
 interviews with one speaker as repeated testimony, not independent confirmation.
 Identify where the repository itself draws a connection.
 
-## 3. Draft the source account
+## 3. Explain the topic
 
-Use the [source-article template](../templates/source-article.md).
+Use the [article template](../templates/source-article.md) when it fits. It is a
+default for developed articles, not a compulsory format. Book entries, short
+notes, timelines, or learning exercises can use a simpler structure.
 
-"In brief" summarizes the source's most relevant information and ideas. It must
-let a reader recover the main argument even if the reader skips the rest. Give
-the speaker's account fair space and clear attribution. A summary of a claim is
-not an endorsement of it.
+"In brief" is a complete reading path for a hurried reader. Include the key
+context, explanations, memorable insights, practical takeaways, major competing
+views, and the most consequential speculations. Retain the evidence status of
+each. A provocative idea belongs in the opening when it is central, with clear
+qualification. Do not hide it in an appendix or replace it with a verdict.
 
-Develop the source account before the contextual checks. Use timestamped links
-and original paraphrase; avoid copying long passages. Follow applicable source
-summary and quotation limits. Link to omitted detail rather than making an
-article a substitute transcript.
+Organize the body by mechanisms, questions, and concepts. Avoid a running
+interview recap, lists of who agreed, or A/B/C interview sections as the main
+structure. Use attribution where it changes the meaning of a claim, especially
+for a consequential allegation or a distinctive hypothesis. Keep the full source
+register and coverage notes near the end, with nearby citations and timestamped
+links throughout. Follow source summary and quotation limits.
 
 ## 4. Add research that serves the article
 
@@ -63,10 +70,11 @@ a chain of command require evidence beyond thematic resemblance.
 
 ## 5. Review twice
 
-**Source fidelity:** Does the opening cover the central thesis and its important
-supporting steps? Are the speaker's qualifications and the host's questions
-retained? Does supplementary research serve the subject rather than replace it?
-Are contradictions between sources visible?
+**Completeness and fidelity:** Does "In brief" contain every central idea,
+important qualification, useful takeaway, and major speculation developed below?
+Can it stand alone? Does the article explain the topic rather than narrate a
+conversation? Are disagreements, conditional premises, and distinct voices
+preserved without using conversational agreement as evidence?
 
 **Evidence and clarity:** Do citations support the exact wording? Are allegations,
 inferences, beliefs, and findings distinguishable? Are uncertain audio, missing
@@ -80,7 +88,17 @@ Record material corrections and the date and scope of each review.
 
 Keep private notes and transcripts outside the checkout. Inspect the local diff
 for unintended changes, preserve legacy material with its status, and update
-navigation after renames. Commit and push when requested by the owner.
+navigation after renames. When the work is ready, summarize the pending changes
+and ask the owner whether to commit and push. Commit all pending public changes
+covered by the approval and push to GitHub if the owner approves publishing.
+
+## How work enters the collection
+
+The owner can submit comments, questions, notes, and resources through the
+project chat. The coordinating agent records accepted requirements, assigns
+bounded research or writing tasks when useful, and brings the resulting local
+changes back for review. This is a request-driven workflow. Scheduled or
+autonomous work is a separate decision.
 
 ## What changed after the first two pilots
 
@@ -90,3 +108,8 @@ The revised process checks source fidelity separately and puts the attributed
 summary first. The second pilot also tests two interviews with the same speaker,
 unattributed legacy notes, and the difference between a narrative connection and
 documented coordination.
+
+**October 31, 2026:** The articles still read too much like interview summaries.
+The default is now a topic explanation with a self-contained opening. Important
+speculations and disagreements belong in that opening alongside the takeaways.
+The template is flexible, and the shared header family supplies visual continuity.

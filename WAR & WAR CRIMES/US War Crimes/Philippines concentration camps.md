@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## Philippines Concentration Camps
 
 During the Philippine-American War, concentration camps were used in Batangas, and one American officer described them as some suburb of hell. Back then, General James Franklin Bell took command of U.S. forces in that area, and his goal was to starve the rebels and cut them off from any support. However, since there were many civilians there, they decided to put them into heavily guarded camps, as their homes, fields, and animals were destroyed. All civilians were required to carry identification papers, and anyone found outside the camps without them could be shot on the spot. Bell himself said neutrality should not be tolerated, which meant that everyone was either an enemy or a friend, and anyone accused of helping the rebels risked execution. 

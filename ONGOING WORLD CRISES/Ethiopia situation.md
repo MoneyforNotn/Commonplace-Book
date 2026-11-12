@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## Ethiopia situation
 
 Ethiopia is being torn apart by brutal fighting, mostly in the Amhara region. The National Army is at war with a local armed group known as the Fano Militia, but innocent families are also paying the price. Both sides are committing terrible crimes, including killing people without a trial and using heavy weapons and drones to bomb neighborhoods where civilians live. This comes from the war that started from 2020 until 2022, when Ethiopia was in a conflict in the Tigray region. The Ethiopian government was against the Tigray People's Liberation Front, and the Fano militia was actually fighting alongside the Ethiopian government, helping them. When a peace deal was signed in late 2022, though, many Amhara felt betrayed and shut out, especially over disputed land they believed should remain under their control. In 2023, the government announced that it would dissolve regional special forces and fold them into the federal army. And in Amhara, this plan sparked protests and then open fighting as parts of the security forces joined Fano instead. 

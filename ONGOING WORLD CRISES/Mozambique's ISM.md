@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## Mozambique's ISM
 
 Insurgency Northern Mozambique is facing a nightmare that almost nobody is talking about. More than 107,000 people have been forced to run for their lives in just the last two weeks (Dec 26) and since this conflict began in 2017, over 1.3 million people have been uprooted, with their villages being attacked and burned to the ground. The violence is driven by a group known as ISM, or Islamic State Mozambique. In the northern province of Cabo Delgado, a little-known Islamist group started attacking police stations and villages, feeding off years of anger about poverty, corruption, and the fact that local people were not seeing any benefit from the huge gas and ruby projects on their own land. Young men with no jobs and no hope were easy to recruit, and the violence slowly turned into a full-blown insurgency. Over time, the fighters pledged allegiance to the Islamic State and became known as ISM, while the government and foreign troops tried and failed to fully stop them, sometimes committing abuses themselves. 

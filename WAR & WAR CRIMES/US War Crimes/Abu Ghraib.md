@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## Abu Ghraib 
 
 The photos from Abu Ghraib are widely known around the world for how disturbing they look, but the background is even darker. To the public, Abu Ghraib was a normal detention and interrogation facility, but it wasn't at all. Inside, there was sexual humiliation to lengths we can't go to for obvious reasons. Torture, physical abuse, and rape. There was even the killing of Manadel al-Jamadi, whose body was packed in ice and later photographed with soldiers posing beside it. The shock was immediate and worldwide, so the Bush administration answered quickly, saying that these were isolated acts by a few rogue soldiers. However, organizations like the Red Cross, Amnesty International, and Human Rights Watch said the opposite, claiming this was part of a larger pattern across U.S. prisons in Iraq, Afghanistan, and Guantanamo. 

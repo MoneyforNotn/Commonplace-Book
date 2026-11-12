@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## No Gun Ri massacre 
 
 In the summer of 1950, during the Korean War, one of its darkest tragedies took place at a railway bridge near the village of No Gun Ri. U.S. commanders were afraid that North Korean soldiers were disguising themselves as civilians, so they ordered refugee movements to be blocked. Declassified documents later showed that some commands actually went even further, authorizing troops to fire on groups of civilians who approached. Then, disaster struck. As waves of refugees fled south from the advancing North Korean army, they reached U.S. lines. There, they were stopped, searched, and grouped near the railway tracks by No Gun Ri. American planes then shot at them. Survivors say ground troops soon opened fire too, driving them into the culverts and pinning them down in the bridge underpasses. 

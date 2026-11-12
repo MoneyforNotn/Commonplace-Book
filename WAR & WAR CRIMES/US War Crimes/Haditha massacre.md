@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## Haditha massacre
 
 On the morning of November 19, 2005, in the Iraqi town of Haditha, a roadside bomb tore through a U.S. Marine convoy. The explosion killed a Marine instantly and left two other Marines badly wounded. Within hours, that turned into one of the darkest chapters of the Iraq War. The Marines shot five unarmed men who had been ordered out of their taxi, killing them on the spot. Then, they entered nearby houses. Inside were families with grandparents, parents, and children as young as one year old. Nonetheless, 19 civilians were killed in their homes, most shot at close range in the chest or head. By the end of the day, 25 unarmed civilians were dead, with the youngest victim being just three years old. The Marine Corps' first official story was false. 

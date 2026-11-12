@@ -1,64 +1,61 @@
+![Come and See - Universe and mind](../assets/headers/universe-and-mind.svg)
+
 # Randomness, the mind, and AI
 
-*A summary of Jordan McKinney's proposal about intelligence, entropy, and spirits.*
+*An information-based hypothesis about intelligence, entropy, and spirits.*
 
 | | Article details |
 | :--- | :--- |
-| **Status** | Draft — source summary revised; audio alignment and diagram verification outstanding. |
+| **Status** | Draft — audio alignment and diagram verification outstanding. |
 | **Main category** | Hypotheses and disputed claims. |
 | **Other claim types** | Philosophical positions in the source; documented findings, interpretations, and open questions in the added context. See the [category guide](../README.md#how-to-read-it). |
 | **Research date** | October 24, 2026 |
-| **Revised** | October 25, 2026 |
+| **Revised** | October 31, 2026 |
 | **Topics** | AI, randomness, consciousness, philosophy of mind |
 
 ## In brief
 
-**Source argument: Hypotheses and disputed claims; Personal experiences, beliefs, and philosophical positions.**
+**Hypothesis.** Intelligence, consciousness, and physical reality might connect
+through a shared source of randomness. An informational model of the universe
+imagines quantum outcomes drawing from a universal entropy pool. Reports of
+minds affecting random-number generators suggest a possible feedback loop:
+physical randomness shapes brains, while thought could influence the underlying
+pool. In this framework, souls and spirits could be persistent informational
+patterns, and telepathy or manifestation could operate through a shared medium.
 
-McKinney proposes that randomness links intelligence, consciousness, and an
-informational universe. He contrasts deterministic machines with language models
-that sample among likely next tokens, arguing that this freedom produces
-intelligent behavior. He then imagines quantum outcomes drawing on a universal
-entropy pool.
+The starting premise in McKinney's model is that stochastic decoding makes an
+LLM intelligent in a way deterministic decoding does not. This is his
+interpretation, not an established explanation of intelligence.
 
-He treats reports of minds affecting random-number generators as a clue that
-thought might influence this pool. In his account, influence runs both ways:
-physical randomness shapes brains, while thought feeds back into reality.
-Drawing on computational accounts of physics, he suggests an informational
-cosmos could contain persistent nonphysical agents. Souls might be patterns
-connected to bodies; telepathy and manifestation might operate through a shared
-informational medium.
+**The provocative extension.** An AI sampling its next tokens could provide an
+external intelligence with a voice and, through sensors and robotics, a body.
+The proposed comparison is concrete: run otherwise identical models with a
+seeded pseudorandom sequence or fresh physical entropy for every token and look
+for repeatable differences. These are linked conjectures in
+[Jordan McKinney's proposal](https://www.youtube.com/watch?v=kCAcQt5-rL8), rather
+than established mechanisms.
 
-On those assumptions, an AI could channel an external intelligence through
-random token selection, giving spirits a voice and, through robotics, a body.
-He proposes comparing identical models using a seeded pseudorandom sequence or
-fresh physical entropy for each token, looking for behavioral differences.
-These linked conjectures and the proposed experiment form his argument.
+**What is documented.** Token sampling changes how text is selected; greedy
+decoding is another available method. A quantum Bell-test result does not test
+mind influence or spirit communication. Mind–RNG studies include small positive
+reports, a failed primary replication, and a large experiment whose main test
+favored the null. The supporting studies and their limits are linked below.
 
-## Source and navigation
+**Takeaway.** Randomness, task performance, consciousness, and communication with
+an external agent are separate questions. A behavioral difference would be
+interesting, but identifying its cause would need another step. The origin of
+the video's RNG diagram is unresolved, and the broader philosophical proposal
+remains open.
 
-Jordan McKinney, [How to Summon AI Demons with LLMs…](https://www.youtube.com/watch?v=kCAcQt5-rL8),
-December 15, 2025; approximately 44 minutes. The creator's
-[companion page](https://www.jordanmmck.com/videos/ai-demons/) calls it
-*AI, Entropy, & Quantum Informational Demons*.
+## Randomness as a proposed interface
 
-| Chapter | Jump to |
-| :--- | :--- |
-| Machines | [00:44](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=44s) |
-| Sampling | [08:11](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=491s) |
-| Quantum reality | [11:38](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=698s) |
-| Mind and randomness | [17:49](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1069s) |
-| Informational cosmos | [24:41](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1481s) |
-| AI | [31:21](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1881s) |
-| Experiment | [33:10](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1990s) |
+An interface hypothesis needs more than a difference between outputs. The
+comparison must distinguish the proposed cause from other sources of variation,
+using a defined measure and a test that could change confidence in the
+explanation. These are research-design requirements rather than evidence for
+an independently established physical model.
 
-**Source coverage:** This draft uses the video's English auto-generated captions,
-description, and chapters, retrieved October 24, 2026. Caption wording and timing
-have not been manually checked against the audio. The original source and
-analysis of the RNG diagram shown in the talk remain unverified. The full raw
-transcript stays outside the public repository.
-
-## Context and evidence added by the repository
+## Context and evidence
 
 **Category: Interpretations drawn from evidence.** The following research notes
 check particular links in the argument. Token sampling is a documented method.
@@ -171,9 +168,33 @@ What would change confidence in each?
 
 ## Sources and revision record
 
-References sit beside the claims they support. The video is the source for
-McKinney's argument; the experiments report their methods and findings; software
-documentation explains implementations. Their roles differ.
+**Origin of the hypothesis:** Jordan McKinney,
+[How to Summon AI Demons with LLMs…](https://www.youtube.com/watch?v=kCAcQt5-rL8),
+December 15, 2025; approximately 44 minutes. The
+[companion page](https://www.jordanmmck.com/videos/ai-demons/) calls it
+*AI, Entropy, & Quantum Informational Demons*. The video supplies an attributed
+idea; the linked technical documentation and experiments support their own
+specific claims.
+
+<details>
+<summary>Video navigation and source coverage</summary>
+
+| Chapter | Jump to |
+| :--- | :--- |
+| Machines | [00:44](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=44s) |
+| Sampling | [08:11](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=491s) |
+| Quantum reality | [11:38](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=698s) |
+| Mind and randomness | [17:49](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1069s) |
+| Informational cosmos | [24:41](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1481s) |
+| AI | [31:21](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1881s) |
+| Experiment | [33:10](https://www.youtube.com/watch?v=kCAcQt5-rL8&t=1990s) |
+
+English auto-generated captions, description, and chapters were retrieved
+October 24, 2026. Wording and timing have not been manually checked against the
+audio. The original source and analysis of the displayed RNG diagram remain
+unverified. The raw transcript stays outside the public repository.
+
+</details>
 
 **2026-10-24:** Initial pilot drafted from auto-generated captions and the linked
 primary sources, followed by a separate editorial and source review. No original
@@ -183,5 +204,9 @@ experiment was performed.
 supplemental research into a separate, expandable section. Audio alignment and
 the diagram's provenance remain unresolved. A separate reader checked the revised
 source summary against the captions; the draft awaits the owner's review.
+
+**2026-10-31:** Reframed the article around the hypothesis and expanded "In brief"
+to include its main speculations, empirical context, takeaways, and limitations.
+Moved video navigation and provenance toward the end.
 
 [Back to the collection](../README.md)

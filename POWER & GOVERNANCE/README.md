@@ -1,3 +1,5 @@
+![Come and See - Power and governance](../assets/headers/power-and-governance.svg)
+
 # Power and governance
 
 How political authority, institutions, money, information, and belief interact.
@@ -6,8 +8,8 @@ visible forms of influence. Evidence categories and editorial status distinguish
 their different kinds of claims.
 
 - [Secret societies, finance, and political power](secret-societies-finance-and-political-power.md)
-  — second pilot; a draft synthesis of two Jiang Xueqin interviews, with focused
-  contextual checks and connections to the existing note.
+  — a draft examination of financial networks, institutions, religious purpose,
+  and competing accounts of political leadership, with focused contextual checks.
 - [Deep State: original note](Deep%20state.md) — legacy material with unverified
   authorship and sourcing; preserved for further investigation.
 

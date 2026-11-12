@@ -1,3 +1,5 @@
+![Come and See - A living library of ideas and evidence](assets/headers/come-and-see.svg)
+
 # Come and See
 
 **A growing library for curiosity, careful research, and shared understanding.**
@@ -18,13 +20,13 @@ Come and See collects ideas worth understanding and returning to: unfamiliar his
 
 Curiosity sets the questions. Evidence shapes the conclusions. Unconventional ideas belong here when their supporting evidence, limitations, and alternatives are presented honestly. Conclusions can change as better information becomes available.
 
-This is an evolving public library. Existing material is being reorganized and reviewed; inclusion alone does not establish accuracy. Some files are unfinished or empty, and inherited folder names may express claims that still need examination.
+This is an evolving public library. Existing material is being reorganized and reviewed; inclusion alone does not establish accuracy. Some entries are placeholders, and inherited folder names may express claims that still need examination.
 
 ## Explore the collection
 
 **Pilot in development:** [Universal randomness, the mind, and AI](UNIVERSE%20%26%20MIND/Universal%20randomness%20%26%20AI.md) — Draft.
 
-**Second pilot:** [Secret societies, finance, and political power](POWER%20%26%20GOVERNANCE/secret-societies-finance-and-political-power.md) — Draft, based on two Jiang Xueqin interviews.
+**Power and governance:** [Secret societies, finance, and political power](POWER%20%26%20GOVERNANCE/secret-societies-finance-and-political-power.md) — Draft; competing explanations of money, institutions, belief, and political leadership.
 
 The former Deep State folder is now **Power and governance**. Other collections
 remain in place while we develop the structure:
@@ -36,7 +38,7 @@ remain in place while we develop the structure:
 | Conflict and crises | [World crises](ONGOING%20WORLD%20CRISES/) · [War and accountability](WAR%20%26%20WAR%20CRIMES/) |
 | Mind and perception | [Universe and mind](UNIVERSE%20%26%20MIND/) · [Perception notes](WAKE%20UP/Secrets%20of%20the%20Universe/) |
 | Science and technology | [Spaceflight questions](NASA%20DECEPTION%20PROGRAM/) |
-| Health and medicine | [Health research notes](THE%20CURE%20FOR%20CANCER/) |
+| Health and medicine | [Cancer research: tumor acidity, placebo, and prevention](THE%20CURE%20FOR%20CANCER/README.md) |
 
 ## How to read it
 
@@ -52,11 +54,13 @@ Articles label the kind of claim being made. A single article may contain severa
 
 These categories describe the claim's role; they do not replace evaluating source quality. Repetition across websites does not necessarily mean independent confirmation. Distinguish an author's statement from evidence that the statement is true.
 
-Each developed article should open with a faithful summary of its source's key
-ideas and qualifications. The article then explains the argument and adds
-relevant context, citations, uncertainty, and counterevidence. Source summaries
-and editorial assessments are identified separately. Personal reflections should
-be clearly attributed.
+"In brief" gives a complete overview: key context, memorable ideas, takeaways,
+competing explanations, and consequential speculations, with their evidence
+status clear. Articles explain topics directly, with traceable sources and
+focused contextual research. Interviews supply viewpoints to investigate;
+agreement between speakers does not verify a claim. Personal reflections are
+clearly attributed. Short notes, book entries, and other formats can use a
+simpler structure.
 
 **Draft** means work in progress. **Reviewed** means the article has received an editorial and source check, with uncertainty retained. **Needs update** flags material requiring another check. Older articles without a status should be treated as awaiting review.
 
@@ -68,12 +72,15 @@ be clearly attributed.
 2. Inspect sources, trace important claims, and seek counterevidence.
 3. Write an accessible explanation with evidence categories and citations.
 4. Check fidelity to the source, then accuracy, attribution, uncertainty, and readability; record corrections.
-5. Review changes locally, then commit and publish when the owner requests it.
+5. Review changes locally and ask the owner whether to commit and publish them.
 
 The research agent assists with this process and must disclose inaccessible sources and unresolved claims. It must never invent citations or imply it reviewed material it could not access.
 
 The [editorial workflow](docs/editorial-workflow.md) and
 [article template](templates/source-article.md) record the approach used for new entries.
+
+Use this project chat to suggest topics, share resources, and request changes.
+Accepted decisions are saved with the project so later work can follow them.
 
 This checkout is the working foundation for GitHub content. Public articles belong here; raw notes, transcripts, and personal source material stay outside the repository. See [project instructions](AGENTS.md) for the working rules.
 

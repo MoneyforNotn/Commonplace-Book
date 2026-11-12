@@ -1,3 +1,5 @@
+![Come and See - Power and governance](../assets/headers/power-and-governance.svg)
+
 # Deep State
 
 > **Legacy note — source and authorship unverified.** The original wording below

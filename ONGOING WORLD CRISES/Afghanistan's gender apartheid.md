@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## Afghanistan's gender apartheid 
 
 In August 2021, after 20 years of war, the United States and its allies pulled out of Afghanistan under a deal struck with the Taliban, and the Afghan government and army, built and funded by the West for two decades, collapsed in 11 days. Four years after the Taliban swept back into power, Afghanistan's girls are in a bad situation. There's a slow and deliberate effort underway to make women and girls basically disappear from public life. This is happening right now to 21 million people, and it is not just about one or two new rules. It is a system designed to push women out of schools, out of jobs, and eventually to keep them entirely inside their homes. The most visible tragedy is in education. Girls are banned from school after the age of 13, and women are barred from universities. This means an entire generation is being cut off from learning, and the impact is already devastating, with nearly 80% of young women now sitting at home with no education, no job, and no training. 
