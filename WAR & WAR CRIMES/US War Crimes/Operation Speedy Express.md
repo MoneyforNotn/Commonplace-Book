@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## Operation Speedy Express 
 
 This was one of the most brutal and controversial US campaigns of the Vietnam War. You can get an idea of what really happened when you hear that the army reported about 11,000 enemy killed but recovered only 750 weapons from the dead. 

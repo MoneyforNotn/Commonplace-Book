@@ -1,3 +1,5 @@
+![Come and See - War and accountability](../../assets/headers/war-and-accountability.svg)
+
 ## Sand Creek massacre 
 
 On November 29, 1864, troops under Colonel John Chivington rode toward a Native American camp of the Cheyenne and Arapaho people. Chief Black Kettle had moved his people there after being told it was safe, and he raised a U.S. flag with a white flag underneath it show peace. Many of the warriors were away, and most of the people in camp were too old or too young to fight. Despite this, Chivington's soldiers attacked. Witnesses later described women and children being shot at close range. People cut apart with knives, babies killed, and bodies mutilated for trophies. One account told of a child wandering in the sand while soldiers took turns trying to shoot him. Another described fingers and ears cut off for jewelry and the body of Chief White Antelope butchered. By the time the killing ended, most of the dead were women and children. 

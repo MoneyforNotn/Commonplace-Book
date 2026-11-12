@@ -1,3 +1,5 @@
+![Come and See - Mind and learning](../../assets/headers/mind-and-learning.svg)
+
 ### Blindsight
 
 **Blindsight is a phenomenon where individuals who are technically blind can still react to visual stimuli without conscious awareness, suggesting that the brain processes visual information through multiple pathways. While the primary visual cortex is damaged, about 10% of optic nerve fibers bypass it and connect to the superior colliculus, an older part of the brain responsible for rapid responses to movement and threats. This results in a disconnect between conscious perception and physical reaction, creating a situation where the body responds to the environment while the mind remains unaware.**

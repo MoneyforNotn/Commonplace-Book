@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Come and See — Historical investigations</title>
+  <desc id="header-desc">An architectural threshold containing a document with a marginal note, on a quiet ink-colored field. Historical investigations. Ideas, context, and evidence.</desc>
+  <rect width="1280" height="260" rx="3" fill="#1b282e"/>
+  <path d="M.5 259.5h1279M.5.5h1279" stroke="#c6cfd0" stroke-opacity=".12"/>
+  <path d="M64 221h814" stroke="#95a7ab" stroke-opacity=".22"/>
+  <g fill="none" stroke="#81979f" stroke-width="1" stroke-opacity=".16">
+    <path d="M966 38v184m51-184v184m51-184v184m51-184v184m51-184v184M944 66h272M944 119h272M944 172h272"/>
+  </g>
+  <path d="M1028 223V63h119v160" fill="#172228" fill-opacity=".66"/>
+  <path d="M1147 63l43 29v131h-43z" fill="#95a7ab" fill-opacity=".045"/>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M987 223V92l41-29m119 0 43 29v131" stroke="#81979f" stroke-width="1.3" stroke-opacity=".54"/>
+    <path d="M1028 223V63h119v160" stroke="#b6a47f" stroke-width="2"/>
+    <path d="M1014 223h148M944 231h272" stroke="#81979f" stroke-width="1.2" stroke-opacity=".62"/>
+    <path d="M1043 222V80h89v142" stroke="#b6a47f" stroke-width="1" stroke-opacity=".36"/>
+  </g>
+  <g fill="none" stroke="#b9c8ca" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1060 105h39l18 18v67h-57zM1099 105v18h18M1073 139h31m-31 14h31m-31 14h18"/><path d="M1098 177h14m-14 6h9"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#b6a47f">Come and See</text>
+    <text x="60" y="144" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#eeeae0">Historical investigations</text>
+    <text x="64" y="192" font-size="26" fill="#c6cfd0">Ideas, context, and evidence.</text>
+  </g>
+</svg>

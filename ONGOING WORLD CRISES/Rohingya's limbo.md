@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## Rohingya's Limbo
 
 Right now, more than a million people are trapped in a place that was never meant to hold them, with no clear way out and less help coming in every day. The Rohingya are a Muslim minority from Myanmar who have been denied citizenship for decades and treated as if they do not belong in the country. Long before they arrived in Bangladesh, they faced harsh laws, hate campaigns, and repeated waves of military violence that forced many to flee. 

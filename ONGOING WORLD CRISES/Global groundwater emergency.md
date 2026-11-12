@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## The Global Groundwater Emergency 
 
 While many know about how bad the climate crisis is, they don't know specifically how bad it's getting recently. Nearly 6 billion people, which is about three-quarters of the entire human population, now live in areas where the freshwater supply is under threat. Satellite data shows that drying regions are expanding by an area twice the size of California every single year. The main problem isn't just that rivers are drying up. It is that we are basically mining the water underground. This groundwater is supposed to be our backup plan, for when the rain stops, we are pumping it out much faster than nature can put it back. In fact, 21 of the world's 37 largest underground water reserves are being emptied faster than they can refill. We are using this water mostly to grow food, as about 70% of all the groundwater we pump is used for agriculture. It is what allows farmers to grow crops in dry places like the Middle East, parts of the United States, and India. But the cost is huge. India now uses more groundwater than China and the United States combined. 

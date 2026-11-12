@@ -1,3 +1,5 @@
+![Come and See - World crises](../assets/headers/world-crises.svg)
+
 ## The Cameroon problem 
 
 A major new report found that out of all the disasters happening globally, the situation in Cameroon is getting the least money, the least media attention, and the least political effort to fix it. The situation is terrifying because the people there are not dealing with just one problem. They are facing three separate disasters hitting at the exact same time. In the north, they are being attacked by violent armed groups and fighting over vanishing water resources. In the west, a brutal civil war has forced hundreds of thousands of people to flee their homes. And in the east, refugees are pouring across the border to escape violence in neighboring countries. Because of this triple threat, more than 2.1 million people have been forced to run for their lives. The needs are massive, with over 3 million people requiring urgent help, yet the world is cutting back on support. Some countries have slashed their aid budgets, and the result is devastating. 

@@ -1,3 +1,5 @@
+![Come and See - Mind and learning](../../assets/headers/mind-and-learning.svg)
+
 ### Mind & Character
 
 How you think creates how you feel, how you feel becomes an emotion, that emotion becomes a vibration, that vibration becomes a manet that attracts things to you, and repels things from you. Only think about what you want  
